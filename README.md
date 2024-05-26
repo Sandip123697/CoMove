@@ -1,39 +1,41 @@
 # CoMove
 
+## Introduction
 
-Introduction
+The **co_move_model** project leverages deep learning to model movement patterns. This project utilizes **TensorFlow 1.8**, **Python 2.7**, and **NumPy 1.14.2**.
 
-The co_move_model project, which uses deep learning to model movement patterns, has its source code located in this repository. TensorFlow 1.8, Python 2.7, and NumPy 1.14.2 are all used in this project.
+## Prerequisites
 
+Ensure you have the following dependencies installed:
 
-Prerequisites
-You need to have the following dependencies installed in order to use the co_move_model:
+- **TensorFlow 1.8**
+- **Python 2.7**
+- **NumPy 1.14.2**
 
-TensorFlow 1.8, Python 2.7, and NumPy 1.14.2
+## Setup Instructions
 
-Instructions for Setup
+To set up the **co_move_model** project, follow these steps:
 
-To set up the co_move_model project, follow these steps:
+1. Install the required dependencies using pip:
 
-Install the required dependencies using pip:
+    ```sh
+    pip install tensorflow==1.8
+    pip install numpy==1.14.2
+    ```
 
-pip install tensorflow==1.8
-pip install numpy==1.14.2
+## Usage
 
-Usage
+To use the **co_move_model**, follow these instructions:
 
-Use the co_move_model as described below:
+1. Open Google Colab or another compatible environment with the `co_move_model.ipynb` file.
+2. Ensure you have the required input data ready. The notebook provides specific details about the input data requirements.
+3. Execute the notebook cells in order to test and refine the model.
 
-Open Google Colab or another environment that is appropriate with the co_move_model.ipynb file.
-Ensure you have the required input data on hand. The notebook itself describes the precise specifications for the input data.
-Run the notebook cells in order to test and refine the model.
+## Identifying Data
 
-Identifying Data
-Contact the author if you have any inquiries or suggestions about the co_move_model project:
+For inquiries or suggestions about the **co_move_model** project, please contact:
 
-Name: [Sandip Kumar Burnwal]
-Email: [burnwal.1@iitj.ac.in]
+- **Name**: Sandip Kumar Burnwal
+- **Email**: [burnwal.1@iitj.ac.in](mailto:burnwal.1@iitj.ac.in)
 
-We value your interest in our work and hope it will be useful to you in your research.
-
-
+We appreciate your interest in our work and hope it will be beneficial for your research.
